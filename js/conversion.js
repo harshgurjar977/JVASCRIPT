@@ -19,3 +19,8 @@ console.log(1 + 2 + "2") //32
 
 // NON-PRIMITIVE
 // array , objects , functions
+
+
+// how memory is used in JS
+// 1.stack - primitive , var ka copy milta
+// 2.heap - non-primitive , reference milta original value ka
